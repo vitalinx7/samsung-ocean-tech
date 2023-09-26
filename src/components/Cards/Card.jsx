@@ -2,8 +2,7 @@ import "./Card.css"
 
 export default function Card() {
     return <div className="card">
-
-    <h2>Rick Sanches</h2>
+      <h2>Rick Sanches</h2>
 
     <div className='tags'>
       <span className='tag'>Status: Vivo</span>
